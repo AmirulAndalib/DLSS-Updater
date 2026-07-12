@@ -7,7 +7,7 @@
 [![CodeQL](https://github.com/Recol/DLSS-Updater/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/Recol/DLSS-Updater/actions?query=workflow%3ACodeQL)
 [![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/Recol/DLSS-Updater?utm_source=badge)
 ![Version](./version.svg)
-![Downloads](https://img.shields.io/github/downloads/Recol/DLSS-Updater/total?color=blue&label=Downloads)
+![Downloads](https://img.shields.io/badge/Downloads-90139-blue)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow.svg)](https://buymeacoffee.com/decouk)
 
 ![Python](https://img.shields.io/badge/Python-3.14_free--threaded-3776AB?logo=python&logoColor=white)
